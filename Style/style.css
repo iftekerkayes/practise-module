@@ -1,0 +1,51 @@
+
+
+h1{
+    text-align: center;
+    color: tomato;
+}
+
+h2{
+    text-align: center;
+    
+}
+
+.nav{
+    display: inline-block;
+    color: blueviolet;
+    margin-left: 59px;
+    
+}
+
+.nav-logo{
+    display: inline;
+}
+
+.logo{
+    width: 150px;
+    height: 80px;
+    margin-left: 20px;
+       
+}
+
+.log-in{
+    background-color: salmon;
+    text-align: center;
+    color: black;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+.carousel{
+    margin-left: 20px;
+}
+
+.slider{
+    width: 100%;
+}
